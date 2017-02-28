@@ -1,0 +1,48 @@
+#logo-topo{
+	display: block;
+	margin: auto;
+	width: 114px;
+	height: 18px;
+	padding: 12px;
+}
+#logo-footer{
+	display: block;
+	margin: auto;
+	width: 37px;
+	height: 30px;
+	padding: 6px;
+}
+#logo{
+	display: block;
+	margin: auto;
+	width: 100%;
+	height: 250px;
+	margin-top: 15px;
+}
+
+#vidList li{
+	cursor: pointer;
+}
+
+#vidList img{
+	margin: 8px;
+	padding: 3px;
+	border: 1px solid #CCC;
+}
+
+#vidList h3{
+	margin-left: 10px;
+}
+
+#showVideo{
+	width: 100%;
+	margin: 15px 0 15px 0;
+}
+
+.uni-estilo{
+	background-color: #195589;
+}
+#clear{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
