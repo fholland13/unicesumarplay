@@ -32,13 +32,21 @@
 
 #vidList h3{
 	margin-left: 10px;
+	font-size: 0.8em;
+	color: #195589;
 }
-
+#vidList p{
+	color: #000;
+	font-size: .80em;
+}
 #showVideo{
 	width: 100%;
 	margin: 15px 0 15px 0;
 }
-
+#textoTopo{
+	color: #3C3C3C;
+	text-align: center;
+}
 .uni-estilo{
 	background-color: #195589;
 }

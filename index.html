@@ -47,22 +47,22 @@
 <body>
     <div data-role="page" id="main">
         <div data-role="header" style="color:#FFF;">
-            <img src="img/logo-texto.png" id="logo-topo"><a href="#options" data-icon="gear" class="ui-btn-right">Configurações</a>
+            <img src="img/logo-texto.png" id="logo-topo"><a href="#options" data-icon="gear" class="ui-btn-right">Opções</a>
         </div>
         <div data-role="content">
-            <img id="logo" src="img/start.png">
+            <iframe id="logo" width="100%" height="250" src="https://www.youtube.com/embed/w-yEIPOKHWA" frameborder="0" allowfullscreen></iframe>
             <div id="showVideo"></div>
-            <br><br>
+            <h4 id="textoTopo" style="margin-top: 0;"></h4>
             <ul id="vidList" data-role="listView"></ul>
         </div>
-        <div data-role="footer">
+        <div data-role="footer" data-position="fixed">
             <img src="img/logo-unicesumar.png" id="logo-footer">
         </div>
     </div>
 
     <div data-role="page" id="options">
         <div data-role="header">
-            <a href="#main" data-icon="delete">Cancelar</a><h1>Configurações</h1><a href="#" id="saveOptions" data-icon="check" data-theme="a" style="background: #0d72ac;color: #FFF;text-shadow: none;">Salvar</a>
+            <a href="#main" data-icon="carat-l">Voltar</a><h1>Opções</h1><a href="#" id="saveOptions" data-icon="check" data-theme="a" style="background: #0d72ac;color: #FFF;text-shadow: none;">Salvar</a>
         </div>
         <div data-role="content">
             <div data-role="fieldcontain" style="padding-bottom: 10px;">
@@ -73,7 +73,7 @@
                 </select>
             </div>
             <div data-role="fieldcontain" style="padding-bottom: 10px;">
-                <label for="maxResultsOptions">Exibir Últimos:</label>
+                <label for="maxResultsOptions">Postagens:</label>
                 <select name="maxResultsOptions" id="maxResultsOptions">
                     <option value="10">10</option>
                     <option value="20">20</option>
@@ -83,17 +83,19 @@
                 </select>
             </div>
             <div data-role="fieldcontain">
-                <ul style="list-style: none;">
-                    <li><strong>Projeto Start - UniCesumar Play</strong></li>
+                <ul style="list-style: none;font-size: .8em">
+                    <li><strong>Projeto Start - UniCesumar 2017</strong></li>
                     <li><br></li>
-                    <li><strong>Desenvolvido por: </strong>Frederico Stefano Holland</li>
+                    <li><strong>Aplicativo: </strong>UniCesumarPlay</li>
+                    <li><strong>Versão: </strong>1.0</li>
+                    <li><strong>Desenvolvedor: </strong>Frederico Stefano Holland</li>
                     <li><strong>RA: </strong>1528666-5</li>
                     <li><strong>Curso: </strong>Análise e Desenvolvimento de Sistemas</li>
                     <li><strong>Polo: </strong>Rio de Janeiro - RJ</li>
                 </ul>
             </div>
         </div>
-        <div data-role="footer">
+        <div data-role="footer" data-position="fixed">
             <img src="img/logo-unicesumar.png" id="logo-footer">
         </div>
     </div>
