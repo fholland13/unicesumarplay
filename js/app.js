@@ -98,7 +98,7 @@ function textoTopo(){
 function showVideo(id){
 	console.log('Showing Video ' + id);
 	$('#logo').remove();
-	var output = '<iframe width="100%" height="250" src="https://www.youtube.com/embed/'+id+'" frameborder="0" allowfullscreen></iframe>';
+	var output = '<iframe width="100%" height="250" src="https://www.youtube.com/embed/'+id+'" frameborder="5" style="border-color:#195589;" allowfullscreen></iframe>';
 	$('#showVideo').html(output);
 }
 
