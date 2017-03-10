@@ -35,7 +35,7 @@ A maior relevância em relação à idealização e desenvolvimento do tema foi 
 
 1. Baixe o arquivo PROJETO_START_FREDERICO_HOLLAND_15286665.zip (https://www.dropbox.com/s/ll3e5o6bmu9ixtt/PROJETO_START_FREDERICO_HOLLAND_15286665.zip?dl=0)
 1. Extraia o arquivo para um diretório em seu computador
-1. Copie o arquivo UnicesumarPlay.apk para um diretório do seu smartphone Android
-1. Navegue até o diretório e toque sobre o ícone UnicesumarPlay.apk e escolha "Instalar"
+1. Copie o arquivo __UnicesumarPlay.apk__ para um diretório do seu smartphone Android
+1. Navegue até o diretório e toque sobre o ícone __UnicesumarPlay.apk__ e escolha __Instalar__
 1. Caso apareça um tela de restrição sobre fontes desconhecidas, faça o seguinte:
   1. Acesse Configurações > Tela bloqueio e segurança, no item Fontes desconhecidas, marque para permitir a instalação de aplicativos de outras fontes além da Play Store.
