@@ -1,4 +1,4 @@
-# Unicesumar Play
+# Unicesumar Play (PROJETO START - UNICESUMAR)
 
 ##1.	Introdução:
 
@@ -30,3 +30,12 @@ A interface amigável e de fácil utilização torna o aplicativo um agregador d
 ##1.4	Justificativa
 
 A maior relevância em relação à idealização e desenvolvimento do tema foi sem dúvida a praticidade e o dinamismo. Centralizar ambos canais em apenas um local, nos tempos atuais onde a velocidade da informação é primordial, ter ao alcance das mãos em um aplicativo onde, com apenas um toque, é possível obter os últimos vídeos postados do canal universitário em formato de biblioteca digital é muito útil e satisfatório, principalmente, considerando os estudantes como público-alvo.
+
+# COMO INSTALAR O APLICATIVO
+
+1. Baixe o arquivo PROJETO_START_FREDERICO_HOLLAND_15286665.zip (https://www.dropbox.com/s/ll3e5o6bmu9ixtt/PROJETO_START_FREDERICO_HOLLAND_15286665.zip?dl=0)
+1. Extraia o arquivo para um diretório em seu computador
+1. Copie o arquivo UnicesumarPlay.apk para um diretório do seu smartphone Android
+1. Navegue até o diretório e toque sobre o ícone UnicesumarPlay.apk e escolha "Instalar"
+1. Caso apareça um tela de restrição sobre fontes desconhecidas, faça o seguinte:
+  1. Acesse Configurações > Tela bloqueio e segurança, no item Fontes desconhecidas, marque para permitir a instalação de aplicativos de outras fontes além da Play Store.
